@@ -1,1188 +1,1188 @@
 [
-  {
-    "name": "US Dollar",
-    "description": "USD",
-    "href": "#",
-    "value": "USD",
-    "country_code": "US"
-  },
-  {
-    "name": "Canadian Dollar",
-    "description": "CAD",
-    "href": "#",
-    "value": "CAD",
-    "country_code": "CA"
-  },
-  {
-    "name": "Euro",
-    "description": "EUR",
-    "href": "#",
-    "value": "EUR",
-    "country_code": "EU"
-  },
-  {
-    "name": "United Arab Emirates Dirham",
-    "description": "AED",
-    "href": "#",
-    "value": "AED",
-    "country_code": "AE"
-  },
-  {
-    "name": "Afghan Afghani",
-    "description": "AFN",
-    "href": "#",
-    "value": "AFN",
-    "country_code": "AF"
-  },
-  {
-    "name": "Albanian Lek",
-    "description": "ALL",
-    "href": "#",
-    "value": "ALL",
-    "country_code": "AL"
-  },
-  {
-    "name": "Armenian Dram",
-    "description": "AMD",
-    "href": "#",
-    "value": "AMD",
-    "country_code": "AM"
-  },
-  {
-    "name": "Argentine Peso",
-    "description": "ARS",
-    "href": "#",
-    "value": "ARS",
-    "country_code": "AR"
-  },
-  {
-    "name": "Australian Dollar",
-    "description": "AUD",
-    "href": "#",
-    "value": "AUD",
-    "country_code": "AU"
-  },
-  {
-    "name": "Azerbaijani Manat",
-    "description": "AZN",
-    "href": "#",
-    "value": "AZN",
-    "country_code": "AZ"
-  },
-  {
-    "name": "Bosnia-Herzegovina Convertible Mark",
-    "description": "BAM",
-    "href": "#",
-    "value": "BAM",
-    "country_code": "BA"
-  },
-  {
-    "name": "Bangladeshi Taka",
-    "description": "BDT",
-    "href": "#",
-    "value": "BDT",
-    "country_code": "BD"
-  },
-  {
-    "name": "Bulgarian Lev",
-    "description": "BGN",
-    "href": "#",
-    "value": "BGN",
-    "country_code": "BG"
-  },
-  {
-    "name": "Bahraini Dinar",
-    "description": "BHD",
-    "href": "#",
-    "value": "BHD",
-    "country_code": "BH"
-  },
-  {
-    "name": "Burundian Franc",
-    "description": "BIF",
-    "href": "#",
-    "value": "BIF",
-    "country_code": "BI"
-  },
-  {
-    "name": "Brunei Dollar",
-    "description": "BND",
-    "href": "#",
-    "value": "BND",
-    "country_code": "BN"
-  },
-  {
-    "name": "Bolivian Boliviano",
-    "description": "BOB",
-    "href": "#",
-    "value": "BOB",
-    "country_code": "BO"
-  },
-  {
-    "name": "Brazilian Real",
-    "description": "BRL",
-    "href": "#",
-    "value": "BRL",
-    "country_code": "BR"
-  },
-  {
-    "name": "Botswanan Pula",
-    "description": "BWP",
-    "href": "#",
-    "value": "BWP",
-    "country_code": "BW"
-  },
-  {
-    "name": "Belarusian Ruble",
-    "description": "BYN",
-    "href": "#",
-    "value": "BYN",
-    "country_code": "BY"
-  },
-  {
-    "name": "Belize Dollar",
-    "description": "BZD",
-    "href": "#",
-    "value": "BZD",
-    "country_code": "BZ"
-  },
-  {
-    "name": "Congolese Franc",
-    "description": "CDF",
-    "href": "#",
-    "value": "CDF",
-    "country_code": "CD"
-  },
-  {
-    "name": "Swiss Franc",
-    "description": "CHF",
-    "href": "#",
-    "value": "CHF",
-    "country_code": "CH"
-  },
-  {
-    "name": "Chilean Peso",
-    "description": "CLP",
-    "href": "#",
-    "value": "CLP",
-    "country_code": "CL"
-  },
-  {
-    "name": "Chinese Yuan",
-    "description": "CNY",
-    "href": "#",
-    "value": "CNY",
-    "country_code": "CN"
-  },
-  {
-    "name": "Colombian Peso",
-    "description": "COP",
-    "href": "#",
-    "value": "COP",
-    "country_code": "CO"
-  },
-  {
-    "name": "Costa Rican Colón",
-    "description": "CRC",
-    "href": "#",
-    "value": "CRC",
-    "country_code": "CR"
-  },
-  {
-    "name": "Cape Verdean Escudo",
-    "description": "CVE",
-    "href": "#",
-    "value": "CVE",
-    "country_code": "CV"
-  },
-  {
-    "name": "Czech Republic Koruna",
-    "description": "CZK",
-    "href": "#",
-    "value": "CZK",
-    "country_code": "CZ"
-  },
-  {
-    "name": "Djiboutian Franc",
-    "description": "DJF",
-    "href": "#",
-    "value": "DJF",
-    "country_code": "DJ"
-  },
-  {
-    "name": "Danish Krone",
-    "description": "DKK",
-    "href": "#",
-    "value": "DKK",
-    "country_code": "DK"
-  },
-  {
-    "name": "Dominican Peso",
-    "description": "DOP",
-    "href": "#",
-    "value": "DOP",
-    "country_code": "DO"
-  },
-  {
-    "name": "Algerian Dinar",
-    "description": "DZD",
-    "href": "#",
-    "value": "DZD",
-    "country_code": "DZ"
-  },
-  {
-    "name": "Estonian Kroon",
-    "description": "EEK",
-    "href": "#",
-    "value": "EEK",
-    "country_code": "EE"
-  },
-  {
-    "name": "Egyptian Pound",
-    "description": "EGP",
-    "href": "#",
-    "value": "EGP",
-    "country_code": "EG"
-  },
-  {
-    "name": "Eritrean Nakfa",
-    "description": "ERN",
-    "href": "#",
-    "value": "ERN",
-    "country_code": "ER"
-  },
-  {
-    "name": "Ethiopian Birr",
-    "description": "ETB",
-    "href": "#",
-    "value": "ETB",
-    "country_code": "ET"
-  },
-  {
-    "name": "British Pound Sterling",
-    "description": "GBP",
-    "href": "#",
-    "value": "GBP",
-    "country_code": "GB"
-  },
-  {
-    "name": "Georgian Lari",
-    "description": "GEL",
-    "href": "#",
-    "value": "GEL",
-    "country_code": "GE"
-  },
-  {
-    "name": "Ghanaian Cedi",
-    "description": "GHS",
-    "href": "#",
-    "value": "GHS",
-    "country_code": "GH"
-  },
-   {
-    "name": "Guinean Franc",
-    "description": "GNF",
-    "href": "#",
-    "value": "GNF",
-    "country_code": "GN"
-  },
-  {
-    "name": "Guatemalan Quetzal",
-    "description": "GTQ",
-    "href": "#",
-    "value": "GTQ",
-    "country_code": "GT"
-  },
-  {
-    "name": "Hong Kong Dollar",
-    "description": "HKD",
-    "href": "#",
-    "value": "HKD",
-    "country_code": "HK"
-  },
-  {
-    "name": "Honduran Lempira",
-    "description": "HNL",
-    "href": "#",
-    "value": "HNL",
-    "country_code": "HN"
-  },
-  {
-    "name": "Croatian Kuna",
-    "description": "HRK",
-    "href": "#",
-    "value": "HRK",
-    "country_code": "HR"
-  },
-  {
-    "name": "Hungarian Forint",
-    "description": "HUF",
-    "href": "#",
-    "value": "HUF",
-    "country_code": "HU"
-  },
-  {
-    "name": "Indonesian Rupiah",
-    "description": "IDR",
-    "href": "#",
-    "value": "IDR",
-    "country_code": "ID"
-  },
-  {
-    "name": "Israeli New Sheqel",
-    "description": "ILS",
-    "href": "#",
-    "value": "ILS",
-    "country_code": "IL"
-  },
-  {
-    "name": "Indian Rupee",
-    "description": "INR",
-    "href": "#",
-    "value": "INR",
-    "country_code": "IN"
-  },
-  {
-    "name": "Iraqi Dinar",
-    "description": "IQD",
-    "href": "#",
-    "value": "IQD",
-    "country_code": "IQ"
-  },
-  {
-    "name": "Iranian Rial",
-    "description": "IRR",
-    "href": "#",
-    "value": "IRR",
-    "country_code": "IR"
-  },
-  {
-    "name": "Icelandic Króna",
-    "description": "ISK",
-    "href": "#",
-    "value": "ISK",
-    "country_code": "IS"
-  },
-  {
-    "name": "Jamaican Dollar",
-    "description": "JMD",
-    "href": "#",
-    "value": "JMD",
-    "country_code": "JM"
-  },
-  {
-    "name": "Jordanian Dinar",
-    "description": "JOD",
-    "href": "#",
-    "value": "JOD",
-    "country_code": "JO"
-  },
-  {
-    "name": "Japanese Yen",
-    "description": "JPY",
-    "href": "#",
-    "value": "JPY",
-    "country_code": "JP"
-  },
-  {
-    "name": "Kenyan Shilling",
-    "description": "KES",
-    "href": "#",
-    "value": "KES",
-    "country_code": "KE"
-  },
-  {
-    "name": "Cambodian Riel",
-    "description": "KHR",
-    "href": "#",
-    "value": "KHR",
-    "country_code": "KH"
-  },
-  {
-    "name": "Comorian Franc",
-    "description": "KMF",
-    "href": "#",
-    "value": "KMF",
-    "country_code": "KM"
-  },
-  {
-    "name": "South Korean Won",
-    "description": "KRW",
-    "href": "#",
-    "value": "KRW",
-    "country_code": "KR"
-  },
-  {
-    "name": "Kuwaiti Dinar",
-    "description": "KWD",
-    "href": "#",
-    "value": "KWD",
-    "country_code": "KW"
-  },
-  {
-    "name": "Kazakhstani Tenge",
-    "description": "KZT",
-    "href": "#",
-    "value": "KZT",
-    "country_code": "KZ"
-  },
-  {
-    "name": "Lebanese Pound",
-    "description": "LBP",
-    "href": "#",
-    "value": "LBP",
-    "country_code": "LB"
-  },
-  {
-    "name": "Sri Lankan Rupee",
-    "description": "LKR",
-    "href": "#",
-    "value": "LKR",
-    "country_code": "LK"
-  },
-  {
-    "name": "Lithuanian Litas",
-    "description": "LTL",
-    "href": "#",
-    "value": "LTL",
-    "country_code": "LT"
-  },
-  {
-    "name": "Latvian Lats",
-    "description": "LVL",
-    "href": "#",
-    "value": "LVL",
-    "country_code": "LV"
-  },
-  {
-    "name": "Libyan Dinar",
-    "description": "LYD",
-    "href": "#",
-    "value": "LYD",
-    "country_code": "LY"
-  },
-  {
-    "name": "Moroccan Dirham",
-    "description": "MAD",
-    "href": "#",
-    "value": "MAD",
-    "country_code": "MA"
-  },
-  {
-    "name": "Moldovan Leu",
-    "description": "MDL",
-    "href": "#",
-    "value": "MDL",
-    "country_code": "MD"
-  },
-  {
-    "name": "Malagasy Ariary",
-    "description": "MGA",
-    "href": "#",
-    "value": "MGA",
-    "country_code": "MG"
-  },
-  {
-    "name": "Macedonian Denar",
-    "description": "MKD",
-    "href": "#",
-    "value": "MKD",
-    "country_code": "MK"
-  },
-  {
-    "name": "Myanma Kyat",
-    "description": "MMK",
-    "href": "#",
-    "value": "MMK",
-    "country_code": "MM"
-  },
-  {
-    "name": "Macanese Pataca",
-    "description": "MOP",
-    "href": "#",
-    "value": "MOP",
-    "country_code": "MO"
-  },
-  {
-    "name": "Mauritian Rupee",
-    "description": "MUR",
-    "href": "#",
-    "value": "MUR",
-    "country_code": "MU"
-  },
-  {
-    "name": "Mexican Peso",
-    "description": "MXN",
-    "href": "#",
-    "value": "MXN",
-    "country_code": "MX"
-  },
-  {
-    "name": "Malaysian Ringgit",
-    "description": "MYR",
-    "href": "#",
-    "value": "MYR",
-    "country_code": "MY"
-  },
-  {
-    "name": "Mozambican Metical",
-    "description": "MZN",
-    "href": "#",
-    "value": "MZN",
-    "country_code": "MZ"
-  },
-  {
-    "name": "Namibian Dollar",
-    "description": "NAD",
-    "href": "#",
-    "value": "NAD",
-    "country_code": "NA"
-  },
-  {
-    "name": "Nigerian Naira",
-    "description": "NGN",
-    "href": "#",
-    "value": "NGN",
-    "country_code": "NG"
-  },
-  {
-    "name": "Nicaraguan Córdoba",
-    "description": "NIO",
-    "href": "#",
-    "value": "NIO",
-    "country_code": "NI"
-  },
-  {
-    "name": "Norwegian Krone",
-    "description": "NOK",
-    "href": "#",
-    "value": "NOK",
-    "country_code": "NO"
-  },
-  {
-    "name": "Nepalese Rupee",
-    "description": "NPR",
-    "href": "#",
-    "value": "NPR",
-    "country_code": "NP"
-  },
-  {
-    "name": "New Zealand Dollar",
-    "description": "NZD",
-    "href": "#",
-    "value": "NZD",
-    "country_code": "NZ"
-  },
-  {
-    "name": "Omani Rial",
-    "description": "OMR",
-    "href": "#",
-    "value": "OMR",
-    "country_code": "OM"
-  },
-  {
-    "name": "Panamanian Balboa",
-    "description": "PAB",
-    "href": "#",
-    "value": "PAB",
-    "country_code": "PA"
-  },
-  {
-    "name": "Peruvian Nuevo Sol",
-    "description": "PEN",
-    "href": "#",
-    "value": "PEN",
-    "country_code": "PE"
-  },
-  {
-    "name": "Philippine Peso",
-    "description": "PHP",
-    "href": "#",
-    "value": "PHP",
-    "country_code": "PH"
-  },
-  {
-    "name": "Pakistani Rupee",
-    "description": "PKR",
-    "href": "#",
-    "value": "PKR",
-    "country_code": "PK"
-  },
-  {
-    "name": "Polish Zloty",
-    "description": "PLN",
-    "href": "#",
-    "value": "PLN",
-    "country_code": "PL"
-  },
-  {
-    "name": "Paraguayan Guarani",
-    "description": "PYG",
-    "href": "#",
-    "value": "PYG",
-    "country_code": "PY"
-  },
-  {
-    "name": "Qatari Rial",
-    "description": "QAR",
-    "href": "#",
-    "value": "QAR",
-    "country_code": "QA"
-  },
-  {
-    "name": "Romanian Leu",
-    "description": "RON",
-    "href": "#",
-    "value": "RON",
-    "country_code": "RO"
-  },
-  {
-    "name": "Serbian Dinar",
-    "description": "RSD",
-    "href": "#",
-    "value": "RSD",
-    "country_code": "RS"
-  },
-  {
-    "name": "Russian Ruble",
-    "description": "RUB",
-    "href": "#",
-    "value": "RUB",
-    "country_code": "RU"
-  },
-  {
-    "name": "Rwandan Franc",
-    "description": "RWF",
-    "href": "#",
-    "value": "RWF",
-    "country_code": "RW"
-  },
-  {
-    "name": "Saudi Riyal",
-    "description": "SAR",
-    "href": "#",
-    "value": "SAR",
-    "country_code": "SA"
-  },
-  {
-    "name": "Sudanese Pound",
-    "description": "SDG",
-    "href": "#",
-    "value": "SDG",
-    "country_code": "SD"
-  },
-  {
-    "name": "Swedish Krona",
-    "description": "SEK",
-    "href": "#",
-    "value": "SEK",
-    "country_code": "SE"
-  },
-  {
-    "name": "Singapore Dollar",
-    "description": "SGD",
-    "href": "#",
-    "value": "SGD",
-    "country_code": "SG"
-  },
-  {
-    "name": "Somali Shilling",
-    "description": "SOS",
-    "href": "#",
-    "value": "SOS",
-    "country_code": "SO"
-  },
-  {
-    "name": "Syrian Pound",
-    "description": "SYP",
-    "href": "#",
-    "value": "SYP",
-    "country_code": "SY"
-  },
-   {
-    "name": "Thai Baht",
-    "description": "THB",
-    "href": "#",
-    "value": "THB",
-    "country_code": "TH"
-  },
-  {
-    "name": "Tunisian Dinar",
-    "description": "TND",
-    "href": "#",
-    "value": "TND",
-    "country_code": "TN"
-  },
-  {
-    "name": "Tongan Paʻanga",
-    "description": "TOP",
-    "href": "#",
-    "value": "TOP",
-    "country_code": "TO"
-  },
-  {
-    "name": "Turkish Lira",
-    "description": "TRY",
-    "href": "#",
-    "value": "TRY",
-    "country_code": "TR"
-  },
-  {
-    "name": "Trinidad and Tobago Dollar",
-    "description": "TTD",
-    "href": "#",
-    "value": "TTD",
-    "country_code": "TT"
-  },
-  {
-    "name": "New Taiwan Dollar",
-    "description": "TWD",
-    "href": "#",
-    "value": "TWD",
-    "country_code": "TW"
-  },
-  {
-    "name": "Tanzanian Shilling",
-    "description": "TZS",
-    "href": "#",
-    "value": "TZS",
-    "country_code": "TZ"
-  },
-  {
-    "name": "Ukrainian Hryvnia",
-    "description": "UAH",
-    "href": "#",
-    "value": "UAH",
-    "country_code": "UA"
-  },
-  {
-    "name": "Ugandan Shilling",
-    "description": "UGX",
-    "href": "#",
-    "value": "UGX",
-    "country_code": "UG"
-  },
-  {
-    "name": "Uruguayan Peso",
-    "description": "UYU",
-    "href": "#",
-    "value": "UYU",
-    "country_code": "UY"
-  },
-  {
-    "name": "Uzbekistan Som",
-    "description": "UZS",
-    "href": "#",
-    "value": "UZS",
-    "country_code": "UZ"
-  },
-  {
-    "name": "Venezuelan Bolívar",
-    "description": "VEF",
-    "href": "#",
-    "value": "VEF",
-    "country_code": "VE"
-  },
-  {
-    "name": "Vietnamese Dong",
-    "description": "VND",
-    "href": "#",
-    "value": "VND",
-    "country_code": "VN"
-  },
-  {
-    "name": "CFA Franc BEAC",
-    "description": "XAF",
-    "href": "#",
-    "value": "XAF",
-    "country_code": "CM"
-  },
-  {
-    "name": "CFA Franc BCEAO",
-    "description": "XOF",
-    "href": "#",
-    "value": "XOF",
-    "country_code": "BF"
-  },
-  {
-    "name": "Yemeni Rial",
-    "description": "YER",
-    "href": "#",
-    "value": "YER",
-    "country_code": "YE"
-  },
-  {
-    "name": "South African Rand",
-    "description": "ZAR",
-    "href": "#",
-    "value": "ZAR",
-    "country_code": "ZA"
-  },
-  {
-    "name": "Zambian Kwacha",
-    "description": "ZMK",
-    "href": "#",
-    "value": "ZMK",
-    "country_code": "ZM"
-  },
-  {
-    "name": "Zimbabwean Dollar",
-    "description": "ZWL",
-    "href": "#",
-    "value": "ZWL",
-    "country_code": "ZW"
-  },
-  {
-    "name": "Netherlands Antillean Guilder",
-    "description": "ANG",
-    "href": "#",
-    "value": "ANG",
-    "country_code": "CW"
-  },
-  {
-    "name": "Angolan Kwanza",
-    "description": "AOA",
-    "href": "#",
-    "value": "AOA",
-    "country_code": "AO"
-  },
-  {
-    "name": "Aruban Florin",
-    "description": "AWG",
-    "href": "#",
-    "value": "AWG",
-    "country_code": "AW"
-  },
-  {
-    "name": "Barbadian Dollar",
-    "description": "BBD",
-    "href": "#",
-    "value": "BBD",
-    "country_code": "BB"
-  },
-  {
-    "name": "Bermudan Dollar",
-    "description": "BMD",
-    "href": "#",
-    "value": "BMD",
-    "country_code": "BM"
-  },
-  {
-    "name": "Bahamian Dollar",
-    "description": "BSD",
-    "href": "#",
-    "value": "BSD",
-    "country_code": "BS"
-  },
-  {
-    "name": "Bitcoin",
-    "description": "BTC",
-    "href": "#",
-    "value": "BTC"
-  },
-  {
-    "name": "Bhutanese Ngultrum",
-    "description": "BTN",
-    "href": "#",
-    "value": "BTN",
-    "country_code": "BT"
-  },
-  {
-    "name": "Belarusian Ruble",
-    "description": "BYR",
-    "href": "#",
-    "value": "BYR",
-    "country_code": "BY"
-  },
-  {
-    "name": "Chilean Unit of Account (UF)",
-    "description": "CLF",
-    "href": "#",
-    "value": "CLF",
-    "country_code": "CL"
-  },
-  {
-    "name": "Cuban Convertible Peso",
-    "description": "CUC",
-    "href": "#",
-    "value": "CUC",
-    "country_code": "CU"
-  },
-  {
-    "name": "Cuban Peso",
-    "description": "CUP",
-    "href": "#",
-    "value": "CUP",
-    "country_code": "CU"
-  },
-  {
-    "name": "Fijian Dollar",
-    "description": "FJD",
-    "href": "#",
-    "value": "FJD",
-    "country_code": "FJ"
-  },
-  {
-    "name": "Falkland Islands Pound",
-    "description": "FKP",
-    "href": "#",
-    "value": "FKP",
-    "country_code": "FK"
-  },
-  {
-    "name": "Guernsey Pound",
-    "description": "GGP",
-    "href": "#",
-    "value": "GGP",
-    "country_code": "GG"
-  },
-  {
-    "name": "Gambian Dalasi",
-    "description": "GMD",
-    "href": "#",
-    "value": "GMD",
-    "country_code": "GM"
-  },
-  {
-    "name": "Guyanaese Dollar",
-    "description": "GYD",
-    "href": "#",
-    "value": "GYD",
-    "country_code": "GY"
-  },
-  {
-    "name": "Haitian Gourde",
-    "description": "HTG",
-    "href": "#",
-    "value": "HTG",
-    "country_code": "HT"
-  },
-  {
-    "name": "Manx pound",
-    "description": "IMP",
-    "href": "#",
-    "value": "IMP",
-    "country_code": "IM"
-  },
-  {
-    "name": "Jersey Pound",
-    "description": "JEP",
-    "href": "#",
-    "value": "JEP",
-    "country_code": "JE"
-  },
-  {
-    "name": "Kyrgyzstani Som",
-    "description": "KGS",
-    "href": "#",
-    "value": "KGS",
-    "country_code": "KG"
-  },
-  {
-    "name": "North Korean Won",
-    "description": "KPW",
-    "href": "#",
-    "value": "KPW",
-    "country_code": "KP"
-  },
-  {
-    "name": "Cayman Islands Dollar",
-    "description": "KYD",
-    "href": "#",
-    "value": "KYD",
-    "country_code": "KY"
-  },
-  {
-    "name": "Lao Kip",
-    "description": "LAK",
-    "href": "#",
-    "value": "LAK",
-    "country_code": "LA"
-  },
-  {
-    "name": "Liberian Dollar",
-    "description": "LRD",
-    "href": "#",
-    "value": "LRD",
-    "country_code": "LR"
-  },
-  {
-    "name": "Lesotho Loti",
-    "description": "LSL",
-    "href": "#",
-    "value": "LSL",
-    "country_code": "LS"
-  },
-  {
-    "name": "Mongolian Tugrik",
-    "description": "MNT",
-    "href": "#",
-    "value": "MNT",
-    "country_code": "MN"
-  },
-  {
-    "name": "Mauritanian Ouguiya",
-    "description": "MRO",
-    "href": "#",
-    "value": "MRO",
-    "country_code": "MR"
-  },
-  {
-    "name": "Maldives Rufiyaa",
-    "description": "MVR",
-    "href": "#",
-    "value": "MVR",
-    "country_code": "MV"
-  },
-  {
-    "name": "Malawian Kwacha",
-    "description": "MWK",
-    "href": "#",
-    "value": "MWK",
-    "country_code": "MW"
-  },
-  {
-    "name": "Papua New Guinean Kina",
-    "description": "PGK",
-    "href": "#",
-    "value": "PGK",
-    "country_code": "PG"
-  },
-  {
-    "name": "Solomon Islands Dollar",
-    "description": "SBD",
-    "href": "#",
-    "value": "SBD",
-    "country_code": "SB"
-  },
-  {
-    "name": "Seychellois Rupee",
-    "description": "SCR",
-    "href": "#",
-    "value": "SCR",
-    "country_code": "SC"
-  },
-  {
-    "name": "Saint Helena Pound",
-    "description": "SHP",
-    "href": "#",
-    "value": "SHP",
-    "country_code": "SH"
-  },
-  {
-    "name": "Sierra Leonean Leone",
-    "description": "SLE",
-    "href": "#",
-    "value": "SLE",
-    "country_code": "SL"
-  },
-  {
-    "name": "Sierra Leonean Leone",
-    "description": "SLL",
-    "href": "#",
-    "value": "SLL",
-    "country_code": "SL"
-  },
-  {
-    "name": "Surinamese Dollar",
-    "description": "SRD",
-    "href": "#",
-    "value": "SRD",
-    "country_code": "SR"
-  },
-  {
-    "name": "São Tomé and Príncipe Dobra",
-    "description": "STD",
-    "href": "#",
-    "value": "STD",
-    "country_code": "ST"
-  },
-  {
-    "name": "Salvadoran colón",
-    "description": "SVC",
-    "href": "#",
-    "value": "SVC",
-    "country_code": "SV"
-  },
-  {
-    "name": "Swazi Lilangeni",
-    "description": "SZL",
-    "href": "#",
-    "value": "SZL",
-    "country_code": "SZ"
-  },
-  {
-    "name": "Tajikistani Somoni",
-    "description": "TJS",
-    "href": "#",
-    "value": "TJS",
-    "country_code": "TJ"
-  },
-  {
-    "name": "Turkmenistan Manat",
-    "description": "TMT",
-    "href": "#",
-    "value": "TMT",
-    "country_code": "TM"
-  },
-  {
-    "name": "Venezuelan Bolívar Soberano",
-    "description": "VES",
-    "href": "#",
-    "value": "VES",
-    "country_code": "VE"
-  },
-  {
-    "name": "Vanuatu Vatu",
-    "description": "VUV",
-    "href": "#",
-    "value": "VUV",
-    "country_code": "VU"
-  },
-  {
-    "name": "Samoan Tālā",
-    "description": "WST",
-    "href": "#",
-    "value": "WST",
-    "country_code": "WS"
-  },
-  {
-    "name": "Silver (troy ounce)",
-    "description": "XAG",
-    "href": "#",
-    "value": "XAG"
-  },
-  {
-    "name": "Gold (troy ounce)",
-    "description": "XAU",
-    "href": "#",
-    "value": "XAU"
-  },
-  {
-    "name": "East Caribbean dollar",
-    "description": "XCD",
-    "href": "#",
-    "value": "XCD",
-    "country_code": "AI AG DM GD KN LC MS VC"
-  },
-  {
-    "name": "Special drawing rights",
-    "description": "XDR",
-    "href": "#",
-    "value": "XDR"
-  },
-  {
-    "name": "CFP Franc",
-    "description": "XPF",
-    "href": "#",
-    "value": "XPF",
-    "country_code": "PF NC WF"
-  },
-  {
-    "name": "Zambian Kwacha",
-    "description": "ZMW",
-    "href": "#",
-    "value": "ZMW",
-    "country_code": "ZM"
-  }
+    {
+      "name": "US Dollar",
+      "description": "USD",
+      "href": "#",
+      "value": "USD",
+      "country_code": "US"
+    },
+    {
+      "name": "Canadian Dollar",
+      "description": "CAD",
+      "href": "#",
+      "value": "CAD",
+      "country_code": "CA"
+    },
+    {
+      "name": "Euro",
+      "description": "EUR",
+      "href": "#",
+      "value": "EUR",
+      "country_code": "EU"
+    },
+    {
+      "name": "United Arab Emirates Dirham",
+      "description": "AED",
+      "href": "#",
+      "value": "AED",
+      "country_code": "AE"
+    },
+    {
+      "name": "Afghan Afghani",
+      "description": "AFN",
+      "href": "#",
+      "value": "AFN",
+      "country_code": "AF"
+    },
+    {
+      "name": "Albanian Lek",
+      "description": "ALL",
+      "href": "#",
+      "value": "ALL",
+      "country_code": "AL"
+    },
+    {
+      "name": "Armenian Dram",
+      "description": "AMD",
+      "href": "#",
+      "value": "AMD",
+      "country_code": "AM"
+    },
+    {
+      "name": "Argentine Peso",
+      "description": "ARS",
+      "href": "#",
+      "value": "ARS",
+      "country_code": "AR"
+    },
+    {
+      "name": "Australian Dollar",
+      "description": "AUD",
+      "href": "#",
+      "value": "AUD",
+      "country_code": "AU"
+    },
+    {
+      "name": "Azerbaijani Manat",
+      "description": "AZN",
+      "href": "#",
+      "value": "AZN",
+      "country_code": "AZ"
+    },
+    {
+      "name": "Bosnia-Herzegovina Convertible Mark",
+      "description": "BAM",
+      "href": "#",
+      "value": "BAM",
+      "country_code": "BA"
+    },
+    {
+      "name": "Bangladeshi Taka",
+      "description": "BDT",
+      "href": "#",
+      "value": "BDT",
+      "country_code": "BD"
+    },
+    {
+      "name": "Bulgarian Lev",
+      "description": "BGN",
+      "href": "#",
+      "value": "BGN",
+      "country_code": "BG"
+    },
+    {
+      "name": "Bahraini Dinar",
+      "description": "BHD",
+      "href": "#",
+      "value": "BHD",
+      "country_code": "BH"
+    },
+    {
+      "name": "Burundian Franc",
+      "description": "BIF",
+      "href": "#",
+      "value": "BIF",
+      "country_code": "BI"
+    },
+    {
+      "name": "Brunei Dollar",
+      "description": "BND",
+      "href": "#",
+      "value": "BND",
+      "country_code": "BN"
+    },
+    {
+      "name": "Bolivian Boliviano",
+      "description": "BOB",
+      "href": "#",
+      "value": "BOB",
+      "country_code": "BO"
+    },
+    {
+      "name": "Brazilian Real",
+      "description": "BRL",
+      "href": "#",
+      "value": "BRL",
+      "country_code": "BR"
+    },
+    {
+      "name": "Botswanan Pula",
+      "description": "BWP",
+      "href": "#",
+      "value": "BWP",
+      "country_code": "BW"
+    },
+    {
+      "name": "Belarusian Ruble",
+      "description": "BYN",
+      "href": "#",
+      "value": "BYN",
+      "country_code": "BY"
+    },
+    {
+      "name": "Belize Dollar",
+      "description": "BZD",
+      "href": "#",
+      "value": "BZD",
+      "country_code": "BZ"
+    },
+    {
+      "name": "Congolese Franc",
+      "description": "CDF",
+      "href": "#",
+      "value": "CDF",
+      "country_code": "CD"
+    },
+    {
+      "name": "Swiss Franc",
+      "description": "CHF",
+      "href": "#",
+      "value": "CHF",
+      "country_code": "CH"
+    },
+    {
+      "name": "Chilean Peso",
+      "description": "CLP",
+      "href": "#",
+      "value": "CLP",
+      "country_code": "CL"
+    },
+    {
+      "name": "Chinese Yuan",
+      "description": "CNY",
+      "href": "#",
+      "value": "CNY",
+      "country_code": "CN"
+    },
+    {
+      "name": "Colombian Peso",
+      "description": "COP",
+      "href": "#",
+      "value": "COP",
+      "country_code": "CO"
+    },
+    {
+      "name": "Costa Rican Colón",
+      "description": "CRC",
+      "href": "#",
+      "value": "CRC",
+      "country_code": "CR"
+    },
+    {
+      "name": "Cape Verdean Escudo",
+      "description": "CVE",
+      "href": "#",
+      "value": "CVE",
+      "country_code": "CV"
+    },
+    {
+      "name": "Czech Republic Koruna",
+      "description": "CZK",
+      "href": "#",
+      "value": "CZK",
+      "country_code": "CZ"
+    },
+    {
+      "name": "Djiboutian Franc",
+      "description": "DJF",
+      "href": "#",
+      "value": "DJF",
+      "country_code": "DJ"
+    },
+    {
+      "name": "Danish Krone",
+      "description": "DKK",
+      "href": "#",
+      "value": "DKK",
+      "country_code": "DK"
+    },
+    {
+      "name": "Dominican Peso",
+      "description": "DOP",
+      "href": "#",
+      "value": "DOP",
+      "country_code": "DO"
+    },
+    {
+      "name": "Algerian Dinar",
+      "description": "DZD",
+      "href": "#",
+      "value": "DZD",
+      "country_code": "DZ"
+    },
+    {
+      "name": "Estonian Kroon",
+      "description": "EEK",
+      "href": "#",
+      "value": "EEK",
+      "country_code": "EE"
+    },
+    {
+      "name": "Egyptian Pound",
+      "description": "EGP",
+      "href": "#",
+      "value": "EGP",
+      "country_code": "EG"
+    },
+    {
+      "name": "Eritrean Nakfa",
+      "description": "ERN",
+      "href": "#",
+      "value": "ERN",
+      "country_code": "ER"
+    },
+    {
+      "name": "Ethiopian Birr",
+      "description": "ETB",
+      "href": "#",
+      "value": "ETB",
+      "country_code": "ET"
+    },
+    {
+      "name": "British Pound Sterling",
+      "description": "GBP",
+      "href": "#",
+      "value": "GBP",
+      "country_code": "GB"
+    },
+    {
+      "name": "Georgian Lari",
+      "description": "GEL",
+      "href": "#",
+      "value": "GEL",
+      "country_code": "GE"
+    },
+    {
+      "name": "Ghanaian Cedi",
+      "description": "GHS",
+      "href": "#",
+      "value": "GHS",
+      "country_code": "GH"
+    },
+    {
+      "name": "Guinean Franc",
+      "description": "GNF",
+      "href": "#",
+      "value": "GNF",
+      "country_code": "GN"
+    },
+    {
+      "name": "Guatemalan Quetzal",
+      "description": "GTQ",
+      "href": "#",
+      "value": "GTQ",
+      "country_code": "GT"
+    },
+    {
+      "name": "Hong Kong Dollar",
+      "description": "HKD",
+      "href": "#",
+      "value": "HKD",
+      "country_code": "HK"
+    },
+    {
+      "name": "Honduran Lempira",
+      "description": "HNL",
+      "href": "#",
+      "value": "HNL",
+      "country_code": "HN"
+    },
+    {
+      "name": "Croatian Kuna",
+      "description": "HRK",
+      "href": "#",
+      "value": "HRK",
+      "country_code": "HR"
+    },
+    {
+      "name": "Hungarian Forint",
+      "description": "HUF",
+      "href": "#",
+      "value": "HUF",
+      "country_code": "HU"
+    },
+    {
+      "name": "Indonesian Rupiah",
+      "description": "IDR",
+      "href": "#",
+      "value": "IDR",
+      "country_code": "ID"
+    },
+    {
+      "name": "Israeli New Sheqel",
+      "description": "ILS",
+      "href": "#",
+      "value": "ILS",
+      "country_code": "IL"
+    },
+    {
+      "name": "Indian Rupee",
+      "description": "INR",
+      "href": "#",
+      "value": "INR",
+      "country_code": "IN"
+    },
+    {
+      "name": "Iraqi Dinar",
+      "description": "IQD",
+      "href": "#",
+      "value": "IQD",
+      "country_code": "IQ"
+    },
+    {
+      "name": "Iranian Rial",
+      "description": "IRR",
+      "href": "#",
+      "value": "IRR",
+      "country_code": "IR"
+    },
+    {
+      "name": "Icelandic Króna",
+      "description": "ISK",
+      "href": "#",
+      "value": "ISK",
+      "country_code": "IS"
+    },
+    {
+      "name": "Jamaican Dollar",
+      "description": "JMD",
+      "href": "#",
+      "value": "JMD",
+      "country_code": "JM"
+    },
+    {
+      "name": "Jordanian Dinar",
+      "description": "JOD",
+      "href": "#",
+      "value": "JOD",
+      "country_code": "JO"
+    },
+    {
+      "name": "Japanese Yen",
+      "description": "JPY",
+      "href": "#",
+      "value": "JPY",
+      "country_code": "JP"
+    },
+    {
+      "name": "Kenyan Shilling",
+      "description": "KES",
+      "href": "#",
+      "value": "KES",
+      "country_code": "KE"
+    },
+    {
+      "name": "Cambodian Riel",
+      "description": "KHR",
+      "href": "#",
+      "value": "KHR",
+      "country_code": "KH"
+    },
+    {
+      "name": "Comorian Franc",
+      "description": "KMF",
+      "href": "#",
+      "value": "KMF",
+      "country_code": "KM"
+    },
+    {
+      "name": "South Korean Won",
+      "description": "KRW",
+      "href": "#",
+      "value": "KRW",
+      "country_code": "KR"
+    },
+    {
+      "name": "Kuwaiti Dinar",
+      "description": "KWD",
+      "href": "#",
+      "value": "KWD",
+      "country_code": "KW"
+    },
+    {
+      "name": "Kazakhstani Tenge",
+      "description": "KZT",
+      "href": "#",
+      "value": "KZT",
+      "country_code": "KZ"
+    },
+    {
+      "name": "Lebanese Pound",
+      "description": "LBP",
+      "href": "#",
+      "value": "LBP",
+      "country_code": "LB"
+    },
+    {
+      "name": "Sri Lankan Rupee",
+      "description": "LKR",
+      "href": "#",
+      "value": "LKR",
+      "country_code": "LK"
+    },
+    {
+      "name": "Lithuanian Litas",
+      "description": "LTL",
+      "href": "#",
+      "value": "LTL",
+      "country_code": "LT"
+    },
+    {
+      "name": "Latvian Lats",
+      "description": "LVL",
+      "href": "#",
+      "value": "LVL",
+      "country_code": "LV"
+    },
+    {
+      "name": "Libyan Dinar",
+      "description": "LYD",
+      "href": "#",
+      "value": "LYD",
+      "country_code": "LY"
+    },
+    {
+      "name": "Moroccan Dirham",
+      "description": "MAD",
+      "href": "#",
+      "value": "MAD",
+      "country_code": "MA"
+    },
+    {
+      "name": "Moldovan Leu",
+      "description": "MDL",
+      "href": "#",
+      "value": "MDL",
+      "country_code": "MD"
+    },
+    {
+      "name": "Malagasy Ariary",
+      "description": "MGA",
+      "href": "#",
+      "value": "MGA",
+      "country_code": "MG"
+    },
+    {
+      "name": "Macedonian Denar",
+      "description": "MKD",
+      "href": "#",
+      "value": "MKD",
+      "country_code": "MK"
+    },
+    {
+      "name": "Myanma Kyat",
+      "description": "MMK",
+      "href": "#",
+      "value": "MMK",
+      "country_code": "MM"
+    },
+    {
+      "name": "Macanese Pataca",
+      "description": "MOP",
+      "href": "#",
+      "value": "MOP",
+      "country_code": "MO"
+    },
+    {
+      "name": "Mauritian Rupee",
+      "description": "MUR",
+      "href": "#",
+      "value": "MUR",
+      "country_code": "MU"
+    },
+    {
+      "name": "Mexican Peso",
+      "description": "MXN",
+      "href": "#",
+      "value": "MXN",
+      "country_code": "MX"
+    },
+    {
+      "name": "Malaysian Ringgit",
+      "description": "MYR",
+      "href": "#",
+      "value": "MYR",
+      "country_code": "MY"
+    },
+    {
+      "name": "Mozambican Metical",
+      "description": "MZN",
+      "href": "#",
+      "value": "MZN",
+      "country_code": "MZ"
+    },
+    {
+      "name": "Namibian Dollar",
+      "description": "NAD",
+      "href": "#",
+      "value": "NAD",
+      "country_code": "NA"
+    },
+    {
+      "name": "Nigerian Naira",
+      "description": "NGN",
+      "href": "#",
+      "value": "NGN",
+      "country_code": "NG"
+    },
+    {
+      "name": "Nicaraguan Córdoba",
+      "description": "NIO",
+      "href": "#",
+      "value": "NIO",
+      "country_code": "NI"
+    },
+    {
+      "name": "Norwegian Krone",
+      "description": "NOK",
+      "href": "#",
+      "value": "NOK",
+      "country_code": "NO"
+    },
+    {
+      "name": "Nepalese Rupee",
+      "description": "NPR",
+      "href": "#",
+      "value": "NPR",
+      "country_code": "NP"
+    },
+    {
+      "name": "New Zealand Dollar",
+      "description": "NZD",
+      "href": "#",
+      "value": "NZD",
+      "country_code": "NZ"
+    },
+    {
+      "name": "Omani Rial",
+      "description": "OMR",
+      "href": "#",
+      "value": "OMR",
+      "country_code": "OM"
+    },
+    {
+      "name": "Panamanian Balboa",
+      "description": "PAB",
+      "href": "#",
+      "value": "PAB",
+      "country_code": "PA"
+    },
+    {
+      "name": "Peruvian Nuevo Sol",
+      "description": "PEN",
+      "href": "#",
+      "value": "PEN",
+      "country_code": "PE"
+    },
+    {
+      "name": "Philippine Peso",
+      "description": "PHP",
+      "href": "#",
+      "value": "PHP",
+      "country_code": "PH"
+    },
+    {
+      "name": "Pakistani Rupee",
+      "description": "PKR",
+      "href": "#",
+      "value": "PKR",
+      "country_code": "PK"
+    },
+    {
+      "name": "Polish Zloty",
+      "description": "PLN",
+      "href": "#",
+      "value": "PLN",
+      "country_code": "PL"
+    },
+    {
+      "name": "Paraguayan Guarani",
+      "description": "PYG",
+      "href": "#",
+      "value": "PYG",
+      "country_code": "PY"
+    },
+    {
+      "name": "Qatari Rial",
+      "description": "QAR",
+      "href": "#",
+      "value": "QAR",
+      "country_code": "QA"
+    },
+    {
+      "name": "Romanian Leu",
+      "description": "RON",
+      "href": "#",
+      "value": "RON",
+      "country_code": "RO"
+    },
+    {
+      "name": "Serbian Dinar",
+      "description": "RSD",
+      "href": "#",
+      "value": "RSD",
+      "country_code": "RS"
+    },
+    {
+      "name": "Russian Ruble",
+      "description": "RUB",
+      "href": "#",
+      "value": "RUB",
+      "country_code": "RU"
+    },
+    {
+      "name": "Rwandan Franc",
+      "description": "RWF",
+      "href": "#",
+      "value": "RWF",
+      "country_code": "RW"
+    },
+    {
+      "name": "Saudi Riyal",
+      "description": "SAR",
+      "href": "#",
+      "value": "SAR",
+      "country_code": "SA"
+    },
+    {
+      "name": "Sudanese Pound",
+      "description": "SDG",
+      "href": "#",
+      "value": "SDG",
+      "country_code": "SD"
+    },
+    {
+      "name": "Swedish Krona",
+      "description": "SEK",
+      "href": "#",
+      "value": "SEK",
+      "country_code": "SE"
+    },
+    {
+      "name": "Singapore Dollar",
+      "description": "SGD",
+      "href": "#",
+      "value": "SGD",
+      "country_code": "SG"
+    },
+    {
+      "name": "Somali Shilling",
+      "description": "SOS",
+      "href": "#",
+      "value": "SOS",
+      "country_code": "SO"
+    },
+    {
+      "name": "Syrian Pound",
+      "description": "SYP",
+      "href": "#",
+      "value": "SYP",
+      "country_code": "SY"
+    },
+    {
+      "name": "Thai Baht",
+      "description": "THB",
+      "href": "#",
+      "value": "THB",
+      "country_code": "TH"
+    },
+    {
+      "name": "Tunisian Dinar",
+      "description": "TND",
+      "href": "#",
+      "value": "TND",
+      "country_code": "TN"
+    },
+    {
+      "name": "Tongan Paʻanga",
+      "description": "TOP",
+      "href": "#",
+      "value": "TOP",
+      "country_code": "TO"
+    },
+    {
+      "name": "Turkish Lira",
+      "description": "TRY",
+      "href": "#",
+      "value": "TRY",
+      "country_code": "TR"
+    },
+    {
+      "name": "Trinidad and Tobago Dollar",
+      "description": "TTD",
+      "href": "#",
+      "value": "TTD",
+      "country_code": "TT"
+    },
+    {
+      "name": "New Taiwan Dollar",
+      "description": "TWD",
+      "href": "#",
+      "value": "TWD",
+      "country_code": "TW"
+    },
+    {
+      "name": "Tanzanian Shilling",
+      "description": "TZS",
+      "href": "#",
+      "value": "TZS",
+      "country_code": "TZ"
+    },
+    {
+      "name": "Ukrainian Hryvnia",
+      "description": "UAH",
+      "href": "#",
+      "value": "UAH",
+      "country_code": "UA"
+    },
+    {
+      "name": "Ugandan Shilling",
+      "description": "UGX",
+      "href": "#",
+      "value": "UGX",
+      "country_code": "UG"
+    },
+    {
+      "name": "Uruguayan Peso",
+      "description": "UYU",
+      "href": "#",
+      "value": "UYU",
+      "country_code": "UY"
+    },
+    {
+      "name": "Uzbekistan Som",
+      "description": "UZS",
+      "href": "#",
+      "value": "UZS",
+      "country_code": "UZ"
+    },
+    {
+      "name": "Venezuelan Bolívar",
+      "description": "VEF",
+      "href": "#",
+      "value": "VEF",
+      "country_code": "VE"
+    },
+    {
+      "name": "Vietnamese Dong",
+      "description": "VND",
+      "href": "#",
+      "value": "VND",
+      "country_code": "VN"
+    },
+    {
+      "name": "CFA Franc BEAC",
+      "description": "XAF",
+      "href": "#",
+      "value": "XAF",
+      "country_code": "CM"
+    },
+    {
+      "name": "CFA Franc BCEAO",
+      "description": "XOF",
+      "href": "#",
+      "value": "XOF",
+      "country_code": "BF"
+    },
+    {
+      "name": "Yemeni Rial",
+      "description": "YER",
+      "href": "#",
+      "value": "YER",
+      "country_code": "YE"
+    },
+    {
+      "name": "South African Rand",
+      "description": "ZAR",
+      "href": "#",
+      "value": "ZAR",
+      "country_code": "ZA"
+    },
+    {
+      "name": "Zambian Kwacha",
+      "description": "ZMK",
+      "href": "#",
+      "value": "ZMK",
+      "country_code": "ZM"
+    },
+    {
+      "name": "Zimbabwean Dollar",
+      "description": "ZWL",
+      "href": "#",
+      "value": "ZWL",
+      "country_code": "ZW"
+    },
+    {
+      "name": "Netherlands Antillean Guilder",
+      "description": "ANG",
+      "href": "#",
+      "value": "ANG",
+      "country_code": "CW"
+    },
+    {
+      "name": "Angolan Kwanza",
+      "description": "AOA",
+      "href": "#",
+      "value": "AOA",
+      "country_code": "AO"
+    },
+    {
+      "name": "Aruban Florin",
+      "description": "AWG",
+      "href": "#",
+      "value": "AWG",
+      "country_code": "AW"
+    },
+    {
+      "name": "Barbadian Dollar",
+      "description": "BBD",
+      "href": "#",
+      "value": "BBD",
+      "country_code": "BB"
+    },
+    {
+      "name": "Bermudan Dollar",
+      "description": "BMD",
+      "href": "#",
+      "value": "BMD",
+      "country_code": "BM"
+    },
+    {
+      "name": "Bahamian Dollar",
+      "description": "BSD",
+      "href": "#",
+      "value": "BSD",
+      "country_code": "BS"
+    },
+    {
+      "name": "Bitcoin",
+      "description": "BTC",
+      "href": "#",
+      "value": "BTC"
+    },
+    {
+      "name": "Bhutanese Ngultrum",
+      "description": "BTN",
+      "href": "#",
+      "value": "BTN",
+      "country_code": "BT"
+    },
+    {
+      "name": "Belarusian Ruble",
+      "description": "BYR",
+      "href": "#",
+      "value": "BYR",
+      "country_code": "BY"
+    },
+    {
+      "name": "Chilean Unit of Account (UF)",
+      "description": "CLF",
+      "href": "#",
+      "value": "CLF",
+      "country_code": "CL"
+    },
+    {
+      "name": "Cuban Convertible Peso",
+      "description": "CUC",
+      "href": "#",
+      "value": "CUC",
+      "country_code": "CU"
+    },
+    {
+      "name": "Cuban Peso",
+      "description": "CUP",
+      "href": "#",
+      "value": "CUP",
+      "country_code": "CU"
+    },
+    {
+      "name": "Fijian Dollar",
+      "description": "FJD",
+      "href": "#",
+      "value": "FJD",
+      "country_code": "FJ"
+    },
+    {
+      "name": "Falkland Islands Pound",
+      "description": "FKP",
+      "href": "#",
+      "value": "FKP",
+      "country_code": "FK"
+    },
+    {
+      "name": "Guernsey Pound",
+      "description": "GGP",
+      "href": "#",
+      "value": "GGP",
+      "country_code": "GG"
+    },
+    {
+      "name": "Gambian Dalasi",
+      "description": "GMD",
+      "href": "#",
+      "value": "GMD",
+      "country_code": "GM"
+    },
+    {
+      "name": "Guyanaese Dollar",
+      "description": "GYD",
+      "href": "#",
+      "value": "GYD",
+      "country_code": "GY"
+    },
+    {
+      "name": "Haitian Gourde",
+      "description": "HTG",
+      "href": "#",
+      "value": "HTG",
+      "country_code": "HT"
+    },
+    {
+      "name": "Manx pound",
+      "description": "IMP",
+      "href": "#",
+      "value": "IMP",
+      "country_code": "IM"
+    },
+    {
+      "name": "Jersey Pound",
+      "description": "JEP",
+      "href": "#",
+      "value": "JEP",
+      "country_code": "JE"
+    },
+    {
+      "name": "Kyrgyzstani Som",
+      "description": "KGS",
+      "href": "#",
+      "value": "KGS",
+      "country_code": "KG"
+    },
+    {
+      "name": "North Korean Won",
+      "description": "KPW",
+      "href": "#",
+      "value": "KPW",
+      "country_code": "KP"
+    },
+    {
+      "name": "Cayman Islands Dollar",
+      "description": "KYD",
+      "href": "#",
+      "value": "KYD",
+      "country_code": "KY"
+    },
+    {
+      "name": "Lao Kip",
+      "description": "LAK",
+      "href": "#",
+      "value": "LAK",
+      "country_code": "LA"
+    },
+    {
+      "name": "Liberian Dollar",
+      "description": "LRD",
+      "href": "#",
+      "value": "LRD",
+      "country_code": "LR"
+    },
+    {
+      "name": "Lesotho Loti",
+      "description": "LSL",
+      "href": "#",
+      "value": "LSL",
+      "country_code": "LS"
+    },
+    {
+      "name": "Mongolian Tugrik",
+      "description": "MNT",
+      "href": "#",
+      "value": "MNT",
+      "country_code": "MN"
+    },
+    {
+      "name": "Mauritanian Ouguiya",
+      "description": "MRO",
+      "href": "#",
+      "value": "MRO",
+      "country_code": "MR"
+    },
+    {
+      "name": "Maldives Rufiyaa",
+      "description": "MVR",
+      "href": "#",
+      "value": "MVR",
+      "country_code": "MV"
+    },
+    {
+      "name": "Malawian Kwacha",
+      "description": "MWK",
+      "href": "#",
+      "value": "MWK",
+      "country_code": "MW"
+    },
+    {
+      "name": "Papua New Guinean Kina",
+      "description": "PGK",
+      "href": "#",
+      "value": "PGK",
+      "country_code": "PG"
+    },
+    {
+      "name": "Solomon Islands Dollar",
+      "description": "SBD",
+      "href": "#",
+      "value": "SBD",
+      "country_code": "SB"
+    },
+    {
+      "name": "Seychellois Rupee",
+      "description": "SCR",
+      "href": "#",
+      "value": "SCR",
+      "country_code": "SC"
+    },
+    {
+      "name": "Saint Helena Pound",
+      "description": "SHP",
+      "href": "#",
+      "value": "SHP",
+      "country_code": "SH"
+    },
+    {
+      "name": "Sierra Leonean Leone",
+      "description": "SLE",
+      "href": "#",
+      "value": "SLE",
+      "country_code": "SL"
+    },
+    {
+      "name": "Sierra Leonean Leone",
+      "description": "SLL",
+      "href": "#",
+      "value": "SLL",
+      "country_code": "SL"
+    },
+    {
+      "name": "Surinamese Dollar",
+      "description": "SRD",
+      "href": "#",
+      "value": "SRD",
+      "country_code": "SR"
+    },
+    {
+      "name": "São Tomé and Príncipe Dobra",
+      "description": "STD",
+      "href": "#",
+      "value": "STD",
+      "country_code": "ST"
+    },
+    {
+      "name": "Salvadoran colón",
+      "description": "SVC",
+      "href": "#",
+      "value": "SVC",
+      "country_code": "SV"
+    },
+    {
+      "name": "Swazi Lilangeni",
+      "description": "SZL",
+      "href": "#",
+      "value": "SZL",
+      "country_code": "SZ"
+    },
+    {
+      "name": "Tajikistani Somoni",
+      "description": "TJS",
+      "href": "#",
+      "value": "TJS",
+      "country_code": "TJ"
+    },
+    {
+      "name": "Turkmenistan Manat",
+      "description": "TMT",
+      "href": "#",
+      "value": "TMT",
+      "country_code": "TM"
+    },
+    {
+      "name": "Venezuelan Bolívar Soberano",
+      "description": "VES",
+      "href": "#",
+      "value": "VES",
+      "country_code": "VE"
+    },
+    {
+      "name": "Vanuatu Vatu",
+      "description": "VUV",
+      "href": "#",
+      "value": "VUV",
+      "country_code": "VU"
+    },
+    {
+      "name": "Samoan Tālā",
+      "description": "WST",
+      "href": "#",
+      "value": "WST",
+      "country_code": "WS"
+    },
+    {
+      "name": "Silver (troy ounce)",
+      "description": "XAG",
+      "href": "#",
+      "value": "XAG"
+    },
+    {
+      "name": "Gold (troy ounce)",
+      "description": "XAU",
+      "href": "#",
+      "value": "XAU"
+    },
+    {
+      "name": "East Caribbean dollar",
+      "description": "XCD",
+      "href": "#",
+      "value": "XCD",
+      "country_code": "AI AG DM GD KN LC MS VC"
+    },
+    {
+      "name": "Special drawing rights",
+      "description": "XDR",
+      "href": "#",
+      "value": "XDR"
+    },
+    {
+      "name": "CFP Franc",
+      "description": "XPF",
+      "href": "#",
+      "value": "XPF",
+      "country_code": "PF NC WF"
+    },
+    {
+      "name": "Zambian Kwacha",
+      "description": "ZMW",
+      "href": "#",
+      "value": "ZMW",
+      "country_code": "ZM"
+    }
 ]
